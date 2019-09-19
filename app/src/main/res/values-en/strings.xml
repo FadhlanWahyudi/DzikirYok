@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dzikir APP</string>
+    <string name="title_activity_dzikir_pagi">Morning Dzikir</string>
+    <string name="dzikir_pagi">Morning Dzikir </string>
+    <string name="macam_macam_dzikir"> kinds of remembrance</string>
+    <string name="Tahmid">tahmid</string>
+    <string name="tasbih">Tasbih</string>
+    <string name="takbir">Takbir</string>
+    <string name="ganti_bahasa">change language</string>
+
+</resources>

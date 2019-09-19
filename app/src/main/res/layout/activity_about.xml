@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".About">
+
+    <ImageView
+        android:src="@drawable/f"
+        android:layout_width="match_parent"
+        android:layout_height="150dp" />
+
+    <TextView
+        android:layout_marginTop="100dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"
+        android:text="Nama : Muhammmad Fadhlan Wahyudi \n Umur : 13 Tahun \n\n Bersekolah di IDN Boarding School Disini Saya Belajar \n membuat aplikasi \n Game Edukasi\n belajar IOT (Internet Of THINGS)"/>
+
+</LinearLayout>
