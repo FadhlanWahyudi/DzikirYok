@@ -19,4 +19,17 @@
         android:textSize="15sp"
         android:text="Nama : Muhammmad Fadhlan Wahyudi \n Umur : 13 Tahun \n\n Bersekolah di IDN Boarding School Disini Saya Belajar \n membuat aplikasi \n Game Edukasi\n belajar IOT (Internet Of THINGS)"/>
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"
+        android:text="Gmail : fadhlandeveloper@gmail.com"/>
+    
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"
+        android:text="Instagram : @fadhlan_wahyudi"/>
+
+    
 </LinearLayout>
